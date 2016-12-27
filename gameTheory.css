@@ -1,0 +1,27 @@
+td{
+  padding:5px;
+  border:1px solid black;
+}
+span{
+  padding:6px;
+}
+th{
+  padding:5px;
+}
+#gameP{
+  margin: auto;
+
+}
+#gameR{
+  margin:auto;
+}
+.nash{
+  background-color:lightgreen;
+  }
+#box{
+  text-align: right;
+}
+
+#gameR{
+  position:relative;
+}
