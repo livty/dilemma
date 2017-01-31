@@ -23,12 +23,7 @@
 
 
         <li><img src="https://images.unsplash.com/photo-1472157592780-9e5265f17f8f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=kjerlxahjxc-sarah-dorweiler.jpg&s=3ee1865cffe036914b04703dde51b421" /></li>
-        <li><img src="https://images.unsplash.com/photo-1475728323095-40427349276f?dpr=1&auto=format&fit=crop&w=1500&h=999&q=80&cs=tinysrgb&crop=" /></li>
-<li><img src="https://images.unsplash.com/photo-1466618786657-4df462be674e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=o7eplfrrlbs-erik-jan-leusink.jpg&s=73459bbe54c7001499afd491cf8e51cc" /></li>
-<li><img src="https://images.unsplash.com/photo-1452019761881-737a0073d2f7?dpr=1&auto=format&fit=crop&w=1500&h=997&q=80&cs=tinysrgb&crop=" /></li>
-        <li><img src="https://images.unsplash.com/photo-1468465369248-3054456ce11a?dpr=1&auto=format&fit=crop&w=1500&h=996&q=80&cs=tinysrgb&crop="/></li>
-        <li><img src="https://images.unsplash.com/photo-1457473075527-b0db85c08e66?dpr=1&auto=format&fit=crop&w=1500&h=994&q=80&cs=tinysrgb&crop="/></li>
-        <li><img src="https://images.unsplash.com/5/nose-up.jpg?dpr=1&auto=format&fit=crop&w=1500&h=1025&q=80&cs=tinysrgb&crop="/></li>
+        <li><img src="https://images.unsplash.com/photo-1466618786657-4df462be674e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=o7eplfrrlbs-erik-jan-leusink.jpg&s=73459bbe54c7001499afd491cf8e51cc" /></li>
     </ul>
     </div>
     <div class="jum">
@@ -37,16 +32,12 @@
 
         <button type="button" class="btn butt b" id="butt">Prisonner's dilemma</button>
         <button type="button" class="btn b" id="rock">Rock-paper-scissors</button>
-        <a href="https://www.youtube.com/watch?v=t9Lo2fgxWHw" button type="button" class="btn h" id="hints">Prisonner's hint</a>
-</button>
-<a href="http://nerdist.com/how-to-win-rock-paper-scissors-with-game-theory/" button type="button" class="btn n" id="hint">RPC's hint</a>
-</button>
         <div class="btn-group b" id="dropjupz">
             <button align="right" type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">jupz
           <i class="fa fa-bath fa-1x" aria-hidden="true"></i> </button>
             <ul class="dropdown-menu" id="dropp">
                 <li id="pop"><a href="#">why</li>
-              <li><a href="https://en.wikipedia.org/wiki/Game_theory">what is game theory</a></li>
+              <li><a href="#">what is game theory</a></li>
 
             </ul>
 
@@ -69,21 +60,21 @@
                     <tr>
                         <td rowspan="3">Player 1 </td>
                         <td>Rock</td>
-                        <td align="right" class="tie">0</td>
-                        <td align="right" class="player2">-1</td>
-                        <td align="right" class="player1">1</td>
+                        <td align="right" class="hellno">0</td>
+                        <td align="right" class="hellno">-1</td>
+                        <td align="right" class="hellno">1</td>
                     </tr>
                     <tr>
                         <td>Paper</td>
-                        <td align="right" class="player11">1</td>
-                        <td align="right" class="tie1">0</td>
-                        <td align="right" class="player22">-1</td>
+                        <td align="right" class="hellno">1</td>
+                        <td align="right" class="hellno">0</td>
+                        <td align="right" class="hellno">-1</td>
                     </tr>
                     <tr>
                         <td>Scissors</td>
-                        <td align="right" class="player222">-1</td>
-                        <td align="right" class="player111">1</td>
-                        <td align="right" class="tie2">0</td>
+                        <td align="right" class="hellno">-1</td>
+                        <td align="right" class="hellno">1</td>
+                        <td align="right" class="hellno">0</td>
                     </tr>
                 </tbody>
             </table>
@@ -122,27 +113,14 @@
             </table>
         </div>
         <div class="popme">
-            <p>Game theory is fun!</p>
-            <p>You can check out Nash equilibrium in prisonner's dilemma or play a bit of rock-paper-scissors</p>
-            <p>Read more with hints and links provided if you wish or just hang around and check out these awesome pictures</p>
-            <p>jupz comes from my obsession with Urban Dictionary, and apparently means what's up (I personally think it sounds cool)</p>
-            <p>Pictures are taken from THE amazing <a href="https://unsplash.com/">Unsplash</a></p>
-            <p>I mean seriously check that website out!</p>
-            <p>P.S. There are bunch of cat pictures, I don't even like cats that much </p>
-            <p>On the other hand they look adorable, right? </p>
-
+            <p>the hell am I doing this</p>
+            <p>this page is full of cats pictures,man,i am not even that into cats</p>
         </div>
 
-
         <p class="nash animated lightSpeedIn">Exactly!This is indeed a pure Nash equilibrium!</p>
-        <p class="no animated lightSpeedIn">Je n'en peux plus !!!(Can't take it no more!!!)</p>
-        <p class="dilemma expl">This game has one pure Nash equilibrium</p>
-        <p class="rock expl">It's a zero-sum game with a mixed strategy equilibria</p>
-        <p class="rock expl">Playing with a probability of 1/3</p>
-        <p class="tie animated lightSpeedIn">It's a tie!</p>
-        <p class="win1 animated lightSpeedIn">Player 1 wins!</p>
-        <p class="win2 animated lightSpeedIn">Player 2 wins!</p>
-
+        <p class="no animated lightSpeedIn">Je n'en peux plus !!!</p>
+        <p class="rockp animated lightSpeedIn">Sort of a game of equal chances, unless you learn more about it</p>
+        <img src="pun.png" class="rockp animated lightSpeedIn">
 
 
     </div>
